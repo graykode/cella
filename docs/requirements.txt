@@ -12,5 +12,5 @@ pytest
 tqdm
 torch==1.6.0
 torchvision==0.7.0
-tensorflow==2.2.1
+tensorflow==2.5.0
 tensorflow_io==0.13
